@@ -1,0 +1,286 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#navbar {
+    background-color: black;
+}
+
+.gen {
+    float: left;
+    list-style: none;
+    margin: 15px 5px;
+}
+
+.op {
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+.op:hover {
+    color: gray;
+}
+
+#login {
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+#login:hover {
+    color: grey;
+}
+
+#navbar ul {
+    overflow: auto;
+}
+
+.login {
+    float: right;
+    list-style: none;
+    margin: 15px 15px;
+}
+
+#img1 {
+    display: block;
+    float: right;
+    margin: 5px 0px;
+}
+
+#endbar {
+    display: flex;
+    width: 1500px;
+    flex-wrap: wrap;
+    background-color: black;
+    justify-content: space-evenly;
+}
+
+.endop {
+    width: 130px;
+    color: white;
+    margin: 15px 0px;
+}
+.endop:hover{
+    color:gray;
+    cursor: pointer;
+}
+#fin {
+    width: 70px;
+}
+
+#trainer {
+    background-color: #454545;
+    height: 50px;
+}
+
+.trainer {
+    text-align: center;
+    display: block;
+    padding: 4px 0px 0px 330px;
+    text-decoration: none;
+}
+#ap{
+    text-decoration: none;
+    color:black;
+}
+#ap:hover{
+    color: azure;
+}
+#name {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    margin: auto;
+}
+
+#img2 {
+    margin: auto;
+    display: block;
+    padding-top: 30px;
+}
+
+#intro {
+    background-image: url("kike-vega-F2qh3yjz6Jk-unsplash.jpg");
+    background-repeat: round;
+    height: 730px;
+}
+
+#tag {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+#sign {
+    margin: auto;
+    display: block;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.sign {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.sign:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+#img3 {
+    width: 700px;
+}
+
+.img3 {
+    display: block;
+    background-color: #f3f3f3;
+}
+
+#yoga {
+    float: right;
+    width: 375px;
+    position: relative;
+    top: -420px;
+    right: 200px;
+}
+
+.benefits {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    padding-left: 40px;
+}
+
+.ben {
+    padding-top: 25px;
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    list-style: none;
+}
+
+.bb {
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    list-style: none;
+    padding-top: 25px;
+    font-size: 14px;
+}
+#line {
+    font-weight: bold;
+}
+
+.build {
+    position: relative;
+    top: 120px;
+    left: 200px;
+    width: 275px;
+    overflow: auto;
+}
+
+.img4 {
+    /* display: block; */
+    float: right;
+    margin: 16px -375px;
+}
+
+#body-building {
+    background-color: #080808;
+    height: 533px;
+}
+
+#img5 {
+    width: 684px;
+    margin-top: 18px;
+}
+
+#diet {
+    float: right;
+    position: relative;
+    top: 100px;
+    right: -180px;
+    width: 400px;
+}
+
+.diet {
+    list-style: none;
+}
+
+.d2 {
+    padding-top: 25px;
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    list-style: none;
+}
+
+#line2 {
+    font-weight: bold;
+}
+
+#img6 {
+    width: 800px;
+    float: right;
+    position: relative;
+    top: 15px;
+}
+
+#equip {
+    background-color: #19191d;
+    width: auto;
+    height: 532px;
+}
+
+#equip p {
+    color: white;
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    width: 240px;
+    position: relative;
+    top: 200px;
+    left: 180px;
+    text-align: center;
+}
+
+#img7 {
+    width: 550px;
+}
+
+.img7 {
+    display: block;
+    background-color: #fffdfd;
+}
+
+#dumb {
+    float: right;
+    position: relative;
+    top: -460px;
+    right: 170px;
+    width: 350px;
+}
+
+.dumb {
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding: 15px;
+    text-align: center;
+}
+
+#line3 {
+    font-weight: bold;
+}
